@@ -1,0 +1,10 @@
+run
+compile
+run
+code .
+compile
+code .
+exit
+run
+compile
+run
